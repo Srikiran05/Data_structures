@@ -22,7 +22,6 @@ Ensure you have a C compiler installed on your system. For example, you can use 
 ### Installation
 
 1. Clone the repository:
-   ```sh
       git clone https://github.com/your-username/data-structures-c.git
 
     1.  Navigate to the data structure directory of your choice:
