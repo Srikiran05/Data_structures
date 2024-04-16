@@ -44,10 +44,3 @@ Usage:
             Implementation file ('data_structure.c'): Actual code for data structure functions.
             Example usage file ('example.c'): Demonstrates how to use the data structure with sample operations and output.
 
- Contributing:
-    Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file when contributing to this project.
-
- Acknowledgements:
-   Mention any external libraries or resources used.
-   Credit any inspiration or tutorials that helped with this project.
-   
