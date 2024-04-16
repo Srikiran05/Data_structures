@@ -23,4 +23,27 @@ Ensure you have a C compiler installed on your system. For example, you can use 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/data-structures-c.git
+      git clone https://github.com/your-username/data-structures-c.git
+
+    1.  Navigate to the data structure directory of your choice:
+       cd data-structures-c/singly_linked_list
+
+    2.  Compile the files using GCC:
+       gcc example.c data_structure.c -o example
+
+    3.Run the compiled program:
+        ./example
+
+Usage:
+    Each data structure directory contains:
+            Header file ('data_structure.h'): Structure definitions and function prototypes.
+            Implementation file ('data_structure.c'): Actual code for data structure functions.
+            Example usage file ('example.c'): Demonstrates how to use the data structure with sample operations and output.
+
+ Contributing:
+    Contributions are welcome! Please follow the guidelines in the CONTRIBUTING.md file when contributing to this project.
+
+ Acknowledgements:
+   Mention any external libraries or resources used.
+   Credit any inspiration or tutorials that helped with this project.
+   
